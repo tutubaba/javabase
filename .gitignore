@@ -1,0 +1,44 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+etcloud-frontend/dist
+etcloud-frontend/tmp
+etcloud-frontend/project.zip
+
+# dependencies
+etcloud-frontend/node_modules
+etcloud-frontend/bower_components
+
+# IDEs and editors
+etcloud-frontend/.idea
+.project
+.classpath
+*.launch
+.settings/
+.idea
+*.iml
+target
+logs
+
+# misc
+etcloud-frontend/.sass-cache
+etcloud-frontend/connect.lock
+etcloud-frontend/coverage/*
+etcloud-frontend/libpeerconnection.log
+npm-debug.log
+testem.log
+etcloud-frontend/typings
+
+# e2e
+etcloud-frontend/e2e/*.js
+etcloud-frontend/e2e/*.map
+
+#System Files
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+etcloud-license-manager/target/
+etcloud-license-server-create/target/
+etcloud-license-verify/target/
+logs/
