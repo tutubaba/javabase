@@ -8,8 +8,8 @@ import org.junit.Test;
 import java.awt.event.ActionListener;
 import java.util.function.BinaryOperator;
 
-public class LambdaTest {
-    private Log LOG = LogFactory.getLog(LambdaTest.class);
+public class LambadaTest {
+    private Log LOG = LogFactory.getLog(LambadaTest.class);
 
     @Test
     public void test1() {
